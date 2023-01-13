@@ -1,4 +1,4 @@
-# Predicting-Item-Based-Future-Sales-using-LightGBM-Regression
+# •	Predicting Sales for 50 Items Across 10 Stores using LightGBM-Regression
 
 **Dataset:**
 
